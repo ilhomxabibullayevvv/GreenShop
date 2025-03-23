@@ -1,0 +1,313 @@
+.checkout__content {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.checkout__content2 {
+    display: flex;
+    align-items: start;
+    gap: 30px;
+    margin-bottom: 200px;
+}
+
+.checkout__link {
+    font-family: Cera Pro;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    color: #3D3D3D;
+}
+
+.checkout__link:hover {
+    color: #000000;
+}
+
+.checkout__title {
+    font-family: Cera Pro;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    color: #3D3D3D;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.checkout__form {
+    margin-bottom: 90px;
+}
+
+.checkout__groups {
+    display: flex;
+    align-items: end;
+    gap: 30px;
+}
+
+.checkout__group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.checkout__group2 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.checkout__input {
+    padding-left: 10px;
+    width: 350px;
+    height: 40px;
+    top: 228px;
+    left: 120px;
+    border-width: 1px;
+    border-radius: 3px;
+    border: 1px solid #EAEAEA;
+    font-family: Cera Pro;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 15px;
+    letter-spacing: 0%;
+    color: #A5A5A5;
+}
+
+.checkout__input2 {
+    padding-left: 10px;
+    width: 350px;
+    height: 152px;
+    top: 775px;
+    left: 120px;
+    border-width: 1px;
+    border-radius: 3px;
+    border: 1px solid #EAEAEA;
+    font-family: Cera Pro;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: start;
+    color: #A5A5A5;
+}
+
+.checkout__label {
+    font-family: Cera Pro;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    letter-spacing: 0%;
+    color: #3D3D3D;
+    margin-bottom: 10px;
+    text-align: start;
+}
+
+.checkout__btn {
+    width: 15px;
+    height: 15px;
+    top: 680px;
+    left: 120px;
+    border-width: 2px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #46A358;
+    background: none;
+    border-radius: 50%;
+}
+
+.checkout__btn:hover {
+    background: #388e3c;
+    border-radius: 50%;
+}
+
+.checkout__btn:active {
+    background: #388e3c;
+    border-radius: 50%;
+}
+
+.checkout__content3 {
+    display: flex;
+    align-items: center;
+    gap: 300px;
+    margin-bottom: 10px;
+}
+
+.checkout__span {
+    width: 405.00000000000153;
+    height: 0.1;
+    top: 230px;
+    left: 915px;
+    border-width: 0.3px;
+    border: 0.3px solid #46A35880;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.checkout__card {
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    width: 405;
+    height: 70;
+    top: 241px;
+    left: 915px;
+    background: #FBFBFB;
+    margin-bottom: 10px;
+}
+
+.checkout__iamge {
+    width: 70px;
+    height: 70px;
+    top: 241px;
+    left: 918px;
+    mix-blend-mode: Multiply;
+}
+
+.checkout__name {
+    font-family: Cera Pro;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    color: #000000;
+    margin-bottom: 5px;
+}
+
+.checkout__sub2-title {
+    font-family: Cera Pro;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    color: #727272;
+}
+
+.checkout__quantity {
+    font-family: Cera Pro;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: #727272;
+}
+
+.checkout__price {
+    font-family: Cera Pro;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: #46A358;
+}
+
+.checkout__link2 {
+    font-family: Cera Pro;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: #3D3D3D;
+    margin-left: 255px;
+}
+
+.checkout__span2 {
+    color: #46A358;
+}
+
+.checkout__content4 {
+    display: flex;
+    align-items: center;
+    gap: 260px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.checkout__link3 {
+    font-family: Cera Pro;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: #46A358;
+    margin-left: 255px;
+    margin-bottom: 5px;
+}
+
+.checkout__content5 {
+    display: flex;
+    align-items: center;
+    gap: 300px;
+    margin-bottom: 15px;
+}
+
+.checkout__sub3-title {
+    width: 121px;
+    top: 554px;
+    left: 999px;
+    font-family: Cera Pro;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    color: #3D3D3D;
+}
+
+.checkout__price3 {
+    font-family: Cera Pro;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: #000000;
+}
+
+.checkout__button {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    width: 321;
+    height: 45;
+    top: 882px;
+    left: 999px;
+    border-radius: 3px;
+    border-width: 1px;
+    border: 1px solid #EAEAEA;
+    margin-bottom: 30px;
+}
+
+.checkout__button:hover {
+    border: 1px solid #46A358;
+}
+
+.checkout__image2 {
+    width: 224px;
+    height: 26px;
+    top: 773px;
+    left: 1036px;
+    mix-blend-mode: Multiply;
+}
+
+.checkout__btn2 {
+    width: 321px;
+    height: 40px;
+    top: 976px;
+    left: 999px;
+    border-radius: 3px;
+    background: #46A358;
+    font-family: Cera Pro;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    color: #ffffffff;
+}
